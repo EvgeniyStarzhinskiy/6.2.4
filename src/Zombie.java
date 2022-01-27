@@ -8,7 +8,6 @@ public class Zombie extends Monster{
     }
     public void attack(){
         super.attack();
-        growl();
     }
 }
 
